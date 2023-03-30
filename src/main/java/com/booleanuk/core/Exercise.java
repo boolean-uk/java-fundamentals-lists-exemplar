@@ -63,6 +63,7 @@ public class Exercise extends ExerciseBase {
         return theList;
     }
 
+
     /*
         TODO: 3. Create a method named isEmpty that accepts one parameter:
          - A list of strings
@@ -79,7 +80,6 @@ public class Exercise extends ExerciseBase {
         // return list.size() == 0;
     }
 
-
     /*
         TODO: 4. Create a method named addIngredient that accepts two parameters in this order:
          - A list of strings
@@ -92,6 +92,7 @@ public class Exercise extends ExerciseBase {
     }
 
 
+
     /*
         TODO: 5. Create a method named removeIngredient that accepts two parameters in this order:
          - A list of strings
@@ -102,7 +103,6 @@ public class Exercise extends ExerciseBase {
         ingredients.remove(ingredient);
         return ingredients;
     }
-
 
     /*
         TODO: 6. Create a method named containsIngredient that accepts two parameters in this order:
